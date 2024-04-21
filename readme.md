@@ -2,6 +2,20 @@
 2. https://www.kaggle.com/code/wlifferth/starter-notebook-generating-more-data-with-gemma
 3. https://www.kaggle.com/code/awsaf49/prompt-recovery-with-gemma-kerasnlp-starter
 4. https://www.kaggle.com/code/nilaychauhan/fine-tune-gemma-models-in-keras-using-lora
+5. https://keras.io/examples/nlp/parameter_efficient_finetuning_of_gpt2_with_lora/
+
+.
+
+1. https://github.com/huggingface/peft/blob/main/README.md
+2. https://github.com/huggingface/peft/blob/main/docs/source/quicktour.md
+3. https://github.com/huggingface/peft/blob/main/docs/source/conceptual_guides/adapter.md
+4. https://github.com/huggingface/peft/blob/main/docs/source/conceptual_guides/ia3.md
+5. https://github.com/huggingface/peft/blob/main/docs/source/conceptual_guides/oft.md
+6. https://github.com/huggingface/peft/blob/main/docs/source/developer_guides/lora.md
+7. https://github.com/huggingface/peft/blob/main/docs/source/task_guides/lora_based_methods.md
+8. https://github.com/huggingface/peft/blob/main/docs/source/task_guides/prompt_based_methods.md
+9. https://github.com/huggingface/peft/blob/main/docs/source/tutorial/peft_integrations.md
+10. https://github.com/huggingface/peft/blob/main/docs/source/tutorial/peft_model_config.md
 
 .
 
