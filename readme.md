@@ -1,3 +1,10 @@
+1. https://www.kaggle.com/code/awsaf49/kaggle-qa-with-gemma-kerasnlp-starter
+2. https://www.kaggle.com/code/wlifferth/starter-notebook-generating-more-data-with-gemma
+3. https://www.kaggle.com/code/awsaf49/prompt-recovery-with-gemma-kerasnlp-starter
+4. https://www.kaggle.com/code/nilaychauhan/fine-tune-gemma-models-in-keras-using-lora
+
+.
+
 1. https://stats.stackexchange.com/questions/61783/bias-and-variance-in-leave-one-out-vs-k-fold-cross-validation
 2. https://stats.stackexchange.com/questions/280665/variance-of-k-fold-cross-validation-estimates-as-fk-what-is-the-role-of
 3. https://stats.stackexchange.com/questions/365224/cross-validation-and-confidence-interval-of-the-true-error
