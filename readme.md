@@ -1,4 +1,8 @@
 1. https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/
+2. https://keras.io/examples/vision/super_resolution_sub_pixel/
+3. https://keras.io/examples/vision/edsr/
+4. https://keras.io/examples/generative/ddim/
+5. https://keras.io/examples/generative/random_walks_with_stable_diffusion
 
 .
 
