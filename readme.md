@@ -1,8 +1,4 @@
-1. https://www.kaggle.com/code/awsaf49/kaggle-qa-with-gemma-kerasnlp-starter
-2. https://www.kaggle.com/code/wlifferth/starter-notebook-generating-more-data-with-gemma
-3. https://www.kaggle.com/code/awsaf49/prompt-recovery-with-gemma-kerasnlp-starter
-4. https://www.kaggle.com/code/nilaychauhan/fine-tune-gemma-models-in-keras-using-lora
-5. https://keras.io/examples/nlp/parameter_efficient_finetuning_of_gpt2_with_lora/
+1. https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/
 
 .
 
@@ -16,6 +12,14 @@
 8. https://github.com/huggingface/peft/blob/main/docs/source/task_guides/prompt_based_methods.md
 9. https://github.com/huggingface/peft/blob/main/docs/source/tutorial/peft_integrations.md
 10. https://github.com/huggingface/peft/blob/main/docs/source/tutorial/peft_model_config.md
+
+.
+
+1. https://www.kaggle.com/code/awsaf49/kaggle-qa-with-gemma-kerasnlp-starter
+2. https://www.kaggle.com/code/wlifferth/starter-notebook-generating-more-data-with-gemma
+3. https://www.kaggle.com/code/awsaf49/prompt-recovery-with-gemma-kerasnlp-starter
+4. https://www.kaggle.com/code/nilaychauhan/fine-tune-gemma-models-in-keras-using-lora
+5. https://keras.io/examples/nlp/parameter_efficient_finetuning_of_gpt2_with_lora/
 
 .
 
