@@ -1,3 +1,15 @@
+1. https://keras.io/guides/custom_train_step_in_tensorflow/
+2. https://keras.io/guides/writing_a_custom_training_loop_in_tensorflow/
+3. https://keras.io/guides/making_new_layers_and_models_via_subclassing/
+4. https://keras.io/guides/writing_your_own_callbacks/
+5. https://keras.io/guides/distribution/
+6. https://keras.io/guides/distributed_training_with_tensorflow/
+7. https://keras.io/guides/custom_train_step_in_torch/
+8. https://keras.io/guides/writing_a_custom_training_loop_in_torch/
+9. https://keras.io/guides/distributed_training_with_torch/
+
+.
+
 1. https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/
 2. https://keras.io/examples/vision/super_resolution_sub_pixel/
 3. https://keras.io/examples/vision/edsr/
